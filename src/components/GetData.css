@@ -1,0 +1,12 @@
+* {
+    background-color: #4A8FC7;
+    color: #ffffff;
+    font-size: large;
+}
+
+.container{
+    width: 85%;
+    display: flex;
+    /* align-items: center; */
+    flex-flow: column wrap;
+}
